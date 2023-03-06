@@ -1,6 +1,6 @@
 # cipweb3
 
-[![NPM Package][npm-image]][npm-url] [![Dependency Status][deps-image]][deps-url] [![Dev Dependency Status][deps-dev-image]][deps-dev-url]
+[![NPM Package][npm-image]][npm-url] [![Dependency Status] [deps-image]][deps-url] [![Dev Dependency Status][deps-dev-image]][deps-dev-url]
 
 A clone of web3 package named as cipweb3 for Cipherem chain.
 This is the main package of [cipweb3.js][repo].
